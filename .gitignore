@@ -1,0 +1,16 @@
+# stgit generated dirs
+patches-*
+
+# quilt's files
+patches
+series
+
+*.orig
+*.rej
+*~
+\#*#
+
+# Local configuration
+.*
+
+!.gitignore
